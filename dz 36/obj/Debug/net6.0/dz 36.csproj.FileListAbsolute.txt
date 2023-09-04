@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\domashka\dz 36\bin\Debug\net6.0\dz 36.exe
+C:\Users\PC\Desktop\domashka\dz 36\bin\Debug\net6.0\dz 36.deps.json
+C:\Users\PC\Desktop\domashka\dz 36\bin\Debug\net6.0\dz 36.runtimeconfig.json
+C:\Users\PC\Desktop\domashka\dz 36\bin\Debug\net6.0\dz 36.dll
+C:\Users\PC\Desktop\domashka\dz 36\bin\Debug\net6.0\dz 36.pdb
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\dz 36.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\dz 36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\dz 36.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\dz 36.AssemblyInfo.cs
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\dz 36.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\dz 36.dll
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\refint\dz 36.dll
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\dz 36.pdb
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\dz 36.genruntimeconfig.cache
+C:\Users\PC\Desktop\domashka\dz 36\obj\Debug\net6.0\ref\dz 36.dll
